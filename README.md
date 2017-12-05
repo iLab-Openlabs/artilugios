@@ -1,6 +1,6 @@
 # Receta rápida
 
-## El arte de documentar
+## Artilugio
 
 ## Resumen
 
