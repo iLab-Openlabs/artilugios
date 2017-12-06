@@ -1,5 +1,7 @@
 ### FEEDBACK DE EXPOSICIÓN 
 
+[performance presentación del proyecto](artilugios/prototyping/grafemas/20171204_5_Feedback_Foto01.jpg)
+
 **A. Lafuente**
 * Explorar Paseos de Jeann
 * Falta más voluntad para hacer el proyecto praticable (masticar más el concepto para hacerlo más sociable)
