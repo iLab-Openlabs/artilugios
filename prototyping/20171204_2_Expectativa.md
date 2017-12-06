@@ -1,4 +1,4 @@
-### ¿Qué haría cuando estuviera completo?
+### ¿Qué haría si estuviera completo?
 
 * Responde a una afectividades extremas
 * Habitada desde los sentidos
