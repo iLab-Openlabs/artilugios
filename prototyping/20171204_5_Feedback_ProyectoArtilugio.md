@@ -1,6 +1,6 @@
 ### FEEDBACK DE EXPOSICIÓN 
 
-[performance presentación del proyecto](artilugios/prototyping/grafemas/20171204_5_Feedback_Foto01.jpg)
+![performance presentación del proyecto](https://github.com/iLab-Openlabs/artilugios/blob/recipe/prototyping/grafemas/20171204_5_Feedback_Foto01.jpg)
 
 **A. Lafuente**
 * Explorar Paseos de Jeann
