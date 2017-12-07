@@ -13,3 +13,5 @@
 
 
 *nota: para el momento 3° identificamos ciertas acciones/personas a tener en cuenta: voluntarios, servicio social, mapeos simultáneos, intercambios con banco de tiempo*
+
+![Referencia imagen Escalado aquí](artilugios/blob/recipe/prototyping/grafemas/20171206_Escalabilidad.jpg)
