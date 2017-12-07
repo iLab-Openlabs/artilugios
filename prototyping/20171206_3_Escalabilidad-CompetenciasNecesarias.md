@@ -7,3 +7,5 @@
 * organización vecinal
 * cronista de la ciudad
 * informantes del barrio
+
+![Referencia imagen Escalado aquí](artilugios/blob/recipe/prototyping/grafemas/20171206_Escalabilidad.jpg)
