@@ -3,3 +3,5 @@
     * Que incluye el kit? metodología completa, tutorial para mapeo de indicadores y puntos, registro, feedback
     * Debe incluir la "cultura del proyecto" --> qué significa los afectos, los cuidados, cómo, desde dónde podemos apropiarnos de esos conceptos y términos. Tb debemos proponernos que las personas replicadoras hagan primero un recorrido con nosotras y luego replicar
     * Necesitamos tener claro qué historia contamos, cómo lo comunicamos?
+
+![Referencia imagen Escalado aquí](https://github.com/iLab-Openlabs/artilugios/blob/recipe/prototyping/grafemas/20171206_Escalabilidad.jpg)
