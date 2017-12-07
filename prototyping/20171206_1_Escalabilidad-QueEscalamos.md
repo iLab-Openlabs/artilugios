@@ -4,4 +4,4 @@
 
 * Red de comunidades mapeantes: para Artilugio es indispensable crear, fortalecer y extender una red de replicador@s del proyecto.
 
-![Referencia imagen Escalado aquí](artilugios/blob/recipe/prototyping/grafemas/20171206_Escalabilidad.jpg)
+[Referencia imagen Escalado aquí](https://github.com/iLab-Openlabs/artilugios/blob/recipe/prototyping/grafemas/20171206_Escalabilidad.jpg)
