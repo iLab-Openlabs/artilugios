@@ -12,4 +12,4 @@
 4° Capacitación de replicadoras --> explorar idea de @Bot para FAQ
 
 
-*nota: para el momento 3° identificamos ciertas acciones/personas a tener en cuenta: voluntarios, servicio social, mapeos simultáneos, intercambios con bnaco de tiempo*
+*nota: para el momento 3° identificamos ciertas acciones/personas a tener en cuenta: voluntarios, servicio social, mapeos simultáneos, intercambios con banco de tiempo*
