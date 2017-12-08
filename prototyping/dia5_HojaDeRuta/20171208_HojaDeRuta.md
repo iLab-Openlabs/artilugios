@@ -38,5 +38,14 @@ Tiempo para iteración: 1 mes
 **Etapa 3 - Red**
 Responsable: Ivana / Repsonsable Financiamiento: Montse / Tiempo: 1 año
 
+Armado de la red:
+* listado personas y organizaciones
+* 1° contacto + sensibilización +  entrega kit
+* taller formación
+* acompañamiento mapeos
+* feedback
+* id umbrales de transformación
+
+
 
 ![Hoja de Ruta](https://github.com/iLab-Openlabs/artilugios/blob/recipe/prototyping/grafemas/20171208_HojaDeRuta_foto01.jpg)
