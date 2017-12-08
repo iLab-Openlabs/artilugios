@@ -20,9 +20,12 @@
 
 
 ## Equipo
-### Promotores:
+### Promotores: 
+Jes
 
 ### Colaboradores:
+Ivana
+Montserrat
 
 ## Contacto
 
