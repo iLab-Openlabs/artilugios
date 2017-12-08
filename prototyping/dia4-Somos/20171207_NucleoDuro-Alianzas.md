@@ -35,3 +35,4 @@ Para la Red: Comunicador@ - Promotor@ Cultural - Diseñador@ gráfico. Para los 
 * Adela
 * Más artilugias de la primera etapa
 
+![Somos](https://github.com/iLab-Openlabs/artilugios/blob/recipe/prototyping/grafemas/20171207_QueSomos_foto01.jpg)
