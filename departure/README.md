@@ -1,4 +1,5 @@
-# Antes
+# Artilugio
 
-Lo que más nos importa es entender los motivos de tu interés y las consecuencias políticas, sociales, culturales de tu propuesta. Nos gustaria que nos contagiaran tu pasión y tu visión. También nos importan las dificuldades, las dudas y las oportunidades.
-Importa  mucho el contexto de partida, el trabajo previo, la gestiones necesárias, los recursos disponibles, y en general todo que tenga que ver com las materialidades asociadas a este proyecto.
+Para nosotras es fundamental que las mujeres diversas que transitamos los espacios citadinos tengamos recorridos que sean seguros, seductores y amigables. La intención no sólo es llegar de un punto a otro por el camino más corto, sino recuperar la habitabilidad del espacio. 
+
+Así nos propusimos identificar algunos lugares concuridos de las ciudades (hospitales, mercados, plazas, centro histórico, etc) y con ellos mapear recorridos que cumplan con características de felicidad y seguridad. Para definir las características de lugares seductores y amigables nos propusimos encontrar indicadores que respondieran a: a) olores, b) sabores, c) recuerdos locales, d) colores, e) sonidos.
